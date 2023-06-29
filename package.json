@@ -1,8 +1,8 @@
 {
   "name": "bmap-crack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "bmap-crack.js",
   "keywords": [],
   "author": "Leskur",
   "license": "ISC"
