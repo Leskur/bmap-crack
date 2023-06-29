@@ -12,7 +12,7 @@
 
 自托管
 
-下载 <https://unpkg.com/bmap-crack/bmap-crack.js> 后引用它
+下载 <https://unpkg.com/bmap-crack> 后引用它
 
 ```html
 <script src="./your-path/bmap-crack.js"></script>
