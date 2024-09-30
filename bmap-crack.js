@@ -14,6 +14,9 @@
   }
   const descriptor = {
     get() {
+      if (BMap) {
+        BMap.bmapVerifyCbk = () => {}
+      }
       return BMap;
     }, set(value) {
       BMap = value;
